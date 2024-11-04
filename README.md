@@ -9,15 +9,15 @@ Contraband Circus are an Arts & Entertainment company whose main focus to put on
 ## Table of Contents
 
 1. UX(User Experience)
-    ..* Project Goals
-    ..* Player Goals
-    ..* Developer Goals
-    ..* Business Goals
-    ..* User Stories
+    * Project Goals
+    * Player Goals
+    * Developer Goals
+    * Business Goals
+    * User Stories
 
 2. Design
-    ..* Design Choices
-    ..* Wireframes
+    * Design Choices
+    * Wireframes
 
 3. Features
 
