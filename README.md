@@ -30,7 +30,11 @@ Contraband Circus are an Arts & Entertainment company whose main focus is to put
 
 ### Project Goals
 
-To build a fully functional website for Contrand Circus which prospective & past attendees can easily navigate to be able to find out information about the company and their events. From the perspective of the company, the aim is to promote future events & their roster, whilst also being able to sell tickets & merchandise
+* To build a fully functional website for Contrand Circus which prospective & past attendees can easily navigate to find out information about the company and their events. 
+
+* From the perspective of the company, the aim is to promote future events & their roster, whilst also being able to sell tickets & merchandise. 
+
+* To make the site appealing and enjoyable so that users will return to use the site more than once.
 
 ### User Stories
 
@@ -58,3 +62,12 @@ As a frequent user...
 * I would like to see if there is a newsletter that I can subscribe to to get regular updates about the company. 
 * I would like to find out how to contact the Contraband Circus team.
 
+## Design
+
+### Design Choices
+
+* Color Scheme
+* Typography
+* Imagery
+
+### Wireframes
