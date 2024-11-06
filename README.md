@@ -22,7 +22,7 @@ Contraband Circus are an Arts & Entertainment company whose main focus is to put
 
 5. [Testing](#testing)
 
-6. [Depolyment](#deployment)
+6. [Deployment](#deployment)
 
 7. [Credits & Acknowledgements](#credits)
 
@@ -72,19 +72,28 @@ As a frequent user...
 ### Design Choices
 
 * Color Scheme
+
+I have chosen to use a color scheme of red, black and white as these are the colors primarily used in any artwork created for Contraband Circus.
+
 * Typography
+
+The font I have chosen to use is .... and I have chosen .... as a fallback font, in case the .... font does not display properly or display at all in the browser.
+
 * Imagery
+I have been authorised to use any previous art created used by Contraband Circus so I compiled a collection of their logos which will be used throughout the website. One of the logos will be turned into a banner which will be used on all of the web pages.
 
 <a id="wireframes"></a>
 ### Wireframes
 
+[Desktop device Wireframes](C:\Users\User\Desktop\Contraband Circus Website\WIREFRAMES\Desktop (1920 x 1080\DESKTOP WireFrames.pdf)
+
 <a id="features"></a>
 ### Features
 
-<a id="tech-used">
+<a id="tech-used"></a>
 ### Technology Used
 
-<a id="testing">
+<a id="testing"></a>
 ### Testing
 
 <a id="deployment"></a>
