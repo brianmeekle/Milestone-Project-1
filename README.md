@@ -85,7 +85,12 @@ I have been authorised to use any previous art created used by Contraband Circus
 <a id="wireframes"></a>
 ### Wireframes
 
-[Desktop device Wireframes](C:\Users\User\Desktop\Contraband Circus Website\WIREFRAMES\Desktop (1920 x 1080\DESKTOP WireFrames.pdf)
+[Desktop device wireframes](https://github.com/brianmeekle/Milestone-Project-1/blob/main/
+DESKTOP%20WireFrames.pdf)
+
+[Mobile device wireframes](https://github.com/brianmeekle/Milestone-Project-1/blob/main/MOBILE%20WireFrames.pdf)
+
+[Tablet device wireframes](https://github.com/brianmeekle/Milestone-Project-1/blob/main/TABLET%20WireFrames.pdf)
 
 <a id="features"></a>
 ### Features
